@@ -9,7 +9,7 @@ KNN
 RANSAC  
 ↓  
 Receive a 8*9 matrix A  
-A^t*A  
+A<>t*A  
 get eigenvalue and eigenvector(9 dimension) resize to 3*3 matrix  
 ↓  
 warping A.inv()*[x y 1]  
