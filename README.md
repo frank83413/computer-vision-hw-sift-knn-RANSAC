@@ -1,6 +1,6 @@
 # computer-vision-sift-knn-RANSAC
 
-Read x images target sample  
+Read x images target sample.  
 ↓  
 Sift  
 ↓  
@@ -10,7 +10,7 @@ RANSAC
 ↓  
 Receive a 8\*9 matrix A  
 A<sup>t</sup>\*A  
-get eigenvalue and eigenvector(9 dimension) resize to 3*3 matrix  
+Get eigenvalues and eigenvectors (9-dimension) and resize to 3*3 matrix.  
 ↓  
 warping A.inv()*[x y 1]  
 
