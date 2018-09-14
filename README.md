@@ -8,7 +8,7 @@ KNN
 ↓  
 RANSAC  
 ↓  
-Receive a 8*9 matrix A  
+Receive a 8\*9 matrix A  
 A<sup>t</sup>\*A  
 get eigenvalue and eigenvector(9 dimension) resize to 3*3 matrix  
 ↓  
