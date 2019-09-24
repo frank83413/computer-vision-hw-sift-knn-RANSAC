@@ -20,3 +20,6 @@ Mainly implement KNN, RANSAC and warping.
 
 ![image](https://raw.githubusercontent.com/frank83413/computer-vision-sift-knn-RANSAC/master/img/output.jpg)  
 ![image](https://raw.githubusercontent.com/frank83413/computer-vision-sift-knn-RANSAC/master/img/output2.jpg)  
+
+opencv document
+https://docs.opencv.org/2.4/modules/calib3d/doc/camera_calibration_and_3d_reconstruction.html?highlight=findhomography
